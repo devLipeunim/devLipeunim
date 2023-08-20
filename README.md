@@ -59,5 +59,5 @@
 <a href="https://instagram.com/lipeunim"><img src="https://img.shields.io/badge/-@lipeunim-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://facebook.com/aniah.moschindinho"><img src="https://img.shields.io/badge/-@aniah.moschindinho-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 <a href="https://www.pinterest.ca/mosesaniah86"><img src="https://img.shields.io/badge/-@mosesaniah86-BD081C?style=flat&logo=Pinterest&logoColor=white"/></a>
-<a href="https://www.behance.net/aniahmoses"><img src="https://img.shields.io/badge/-@aniahmoses-1769FF?style=flat&logo=Behance&logoColor=white"/></a>
+<a href="https://www.behance.net/lipeunim"><img src="https://img.shields.io/badge/-@lipeunim-1769FF?style=flat&logo=Behance&logoColor=white"/></a>
 </p>

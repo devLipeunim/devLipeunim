@@ -1,5 +1,5 @@
 
-<img alt="Waving hands" src="https://i.imgur.com/a6gXtiT.gif" width='40' align="left"/> <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+Guys!;I'm+Lipeunim!;Full+Stack+Developer!;Graphics+Designer!;&font=Fira%20Code&center=true&width=380&height=50">
+<img alt="Waving hands" src="https://i.imgur.com/a6gXtiT.gif" width='40' align="left"/> <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+Guys!;I'm+Lipeunim!;Full+Stack+Developer!;Mobile+Developer!;Graphics+Designer!;&font=Fira%20Code&center=true&width=380&height=50">
 
 <!-- ## 👋 &nbsp;Hey there! I'm Lipeunim -->
 
